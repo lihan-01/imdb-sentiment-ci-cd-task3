@@ -1,3 +1,13 @@
+---
+title: IMDB Sentiment Analysis
+emoji: 🎬
+colorFrom: blue
+colorTo: green
+sdk: gradio
+app_file: app.py
+pinned: false
+---
+
 # IMDB Sentiment Analysis with GitHub CI/CD and Hugging Face
 
 This project is a simple machine learning application for IMDB movie review sentiment analysis.
